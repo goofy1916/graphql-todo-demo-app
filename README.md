@@ -1,16 +1,9 @@
-# graphql_demo
+# graphql Todo Demo
 
-A new Flutter project.
+A flutter app with qraphql backend.
 
-## Getting Started
+The graphql server used has been created by @haiku
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To use the app please clone the [repo](https://github.com/r3dm1ke/todo-graphql-example.git) and
+run npm i npm start
+This will install all dependencies and start the server. This server is a basic to-do app back end that lets you create, query, and modify tasks. It’s built using json-graphql-server; be sure to check it out.
